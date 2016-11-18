@@ -1,5 +1,6 @@
 
-  { pluginbase }
+ 让你的python脚本灵活的调用各种插件库
+ { pluginbase }
 
     PluginBase is a module for Python that enables the
     development of flexible plugin systems in Python.
